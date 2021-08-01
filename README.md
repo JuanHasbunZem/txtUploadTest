@@ -23,7 +23,10 @@ const sortArray = (arr) => {
           }
           
           
-     [whiteboarding.txt](https://github.com/JuanHasbunZem/txtUploadTest/files/6913540/whiteboarding.txt)
+     
 sortArray([9, 2, 7, 12])     
           1st instance: 9 vs 2.  2 < 9.  9 = temp,  2 = arr[i +1], arr[i] = 2,  arr[i+1] = temp = 9,
           return - [2, 9, 7, 12]
+
+
+[whiteboarding.txt](https://github.com/JuanHasbunZem/txtUploadTest/files/6913540/whiteboarding.txt)
